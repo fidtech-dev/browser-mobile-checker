@@ -44,9 +44,9 @@
         if (typeof module !== 'undefined' && module.exports) {
             exports = module.exports = that;
         }
-        exports.piexif = that;
+        exports.mobile_checker = that;
     } else {
-        window.piexif = that;
+        window.mobile_checker = that;
     }
 })();
 
