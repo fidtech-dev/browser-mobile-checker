@@ -47,10 +47,10 @@ console.log(supportedMediaCapture);
 ```
 
 
-Dependency
+Dependencies
 ----------
 
-No dependency.  browser-mobile-checker just needs standard JavaScript environment.
+No dependencies, browser-mobile-checker just needs standard JavaScript environment.
 
 Environment
 -----------
