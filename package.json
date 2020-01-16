@@ -1,7 +1,7 @@
 {
   "name": "@fidtech-sa/browser-mobile-checker",
   "version": "1.0.0",
-  "description": "Npm library to mobile browser checking",
+  "description": "A simple library for detecting if a user is using a mobile browser",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
