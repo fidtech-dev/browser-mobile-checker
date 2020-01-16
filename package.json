@@ -1,0 +1,28 @@
+{
+  "name": "@fidtech-sa/browser-mobile-checker",
+  "version": "1.0.0",
+  "description": "A simple library for detecting if a user is using a mobile browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mobile",
+    "checking",
+    "browser",
+    "html",
+    "caputure",
+    "android",
+    "ios"
+  ],
+  "author": "fidtech",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fidtech-dev/browser-mobile-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fidtech-dev/browser-mobile-checker/issues"
+  },
+  "homepage": "https://github.com/fidtech-dev/browser-mobile-checker#readme"
+}
