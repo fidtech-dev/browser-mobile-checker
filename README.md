@@ -55,7 +55,7 @@ No dependency.  browser-mobile-checker just needs standard JavaScript environmen
 Environment
 -----------
 
-Client-side. Standard browsers (Tested on Chrome, Safari, and IE).
+Client-side. Standard browsers (Tested on Chrome, Safari, and Edge).
 
 Issues
 ------
