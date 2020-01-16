@@ -1,14 +1,15 @@
 Browser mobile checker
 ========
 
-Mobile checker for browsers. This library allows to detect android and ios mobile devices.
-Also, this tool allows to identify if the mobile browser supports html media capture instructions. 
+Mobile checker for browsers. This library allows you to detect browsers running on android and ios mobile devices.
+Also, this tool allows you to identify if the mobile browser supports html media capture instructions (also can be used as a good practical way to know if it's not a mobile device). 
  
 
 How to install
 -------------------
 
 Install browser-mobile-checker through NPM:
+
 ```
 npm install @fidtech-sa/browser-mobile-checker
 ```
@@ -46,7 +47,6 @@ console.log(supportedMediaCapture);
 ```
 
 
-
 Dependency
 ----------
 
@@ -60,7 +60,7 @@ Client-side. Standard browsers (Tested on Chrome, Safari, and Edge).
 Issues
 ------
 
-Give us details. Environment, code, input, output. We can do nothing with abstract.
+Just give us the details. Environment, code, input, output, etc. 
 
 License
 -------
