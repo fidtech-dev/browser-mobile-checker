@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A simple library for detecting if a user is using a mobile browser",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
